@@ -1,0 +1,6 @@
+{
+  "name": "Lakshya AI",
+  "description": "Specialized SEBA Class 10 exam preparation engine featuring Zero Hallucination practice, Assamese & English bilingual mock tests, written answer evaluation, and spaced repetition mistake tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
